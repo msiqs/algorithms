@@ -9,6 +9,6 @@ if (numero > 0){
     console.log('O número escolhido é negativo.')
 } else if (numero === 0){
     console.log('O número escolhido é nulo/zero.')
-}else{
+} else{
     console.log('Error')
 }
