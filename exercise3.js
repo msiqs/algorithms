@@ -13,17 +13,3 @@ if (numero > 0){
 }else{
     console.log('Error')
 }
-
-// switch(numero){
-//     case (numero > 0):
-//         console.log('O número escolhido é positivo.')
-//         break;
-
-//     case (numero < 0):
-//         console.log('O número escolhido é negativo.')
-//         break;
-
-//     case (numero == null):
-//         console.log('O número escolhido é nulo/zero.')
-//         break;
-// }
