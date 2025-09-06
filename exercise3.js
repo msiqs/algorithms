@@ -1,7 +1,6 @@
 //Resolução do exercicio 3
 
 const prompt = require('prompt-sync')()
-
 let numero = parseInt(prompt('Digite um número: '))
 
 if (numero > 0){
