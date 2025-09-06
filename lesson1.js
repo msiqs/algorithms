@@ -1,5 +1,5 @@
 //Resolução da questão 1 da lista de execícos de algoritmos.
-
+const prompt = require('prompt-sync')()
 let número = parseInt(prompt('Digite o número que você quer verificar: '))
 
 if (número % 2 != 0){
